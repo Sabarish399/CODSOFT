@@ -1,4 +1,5 @@
 -------CODESOFT INTERSHIP-------
+
 This repository contains a collection of Java-based mini projects developed as part of my internship. These projects cover a range of real-world applications and demonstrate basic to intermediate Java concepts including object-oriented programming, file handling, user interface development with Swing/AWT, and API consumption.
 
 
